@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     int umur = 25;
-    umur = 20;
+    umur = 14;
 
     cout << "ini patrick" << endl;
     cout << 234 << endl;
